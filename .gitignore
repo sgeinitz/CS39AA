@@ -4,5 +4,6 @@
 .vector_cache/
 data/surname_cnn/
 data/surname_mlp/
+wandb/
 
 
